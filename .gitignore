@@ -5,7 +5,8 @@
 *.swo
 vendor
 public/logs/
-/Database/db.sqlite
 composer.lock
 tags
 .ctags
+storage/backup/*
+!storage/backup/.gitkeep
